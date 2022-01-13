@@ -9,13 +9,21 @@ body{width: 100%; height: 100%; background-color: #212121;}
 
 #b{width: 1100px; height: 100%;}
 
-#c{width: 100%; height: 600px; background-color: blueviolet;}
+#c{width: 100%; height: 600px;}
 
 #c img{width: 300px; height: 500px; margin: 50px;}
 
-.fbox1{width: 700px; height: 100%; background-color: red; float: right;}
+.fbox1{width: 700px; height: 100%; float: right; color: white;}
+.fbox1 h1{font-size: 30px; margin-top: 100px;}
+.fbox1 b{font-size: 15px; margin-top: 10px;}
+.fbox1 p{font-size: 15px; margin-top: 30px; line-height: 25px; }
+.fbox1 button{background: white; margin-top: 30px; width: 100px; height: 30px; color: rgb(252, 29, 0); border: none; font-weight: bolder; border-radius: 15px; cursor: pointer;}
+.fbox1 button:hover{background-color: rgb(252, 29, 0); color: white; font-weight: bolder;}
+
 
 #d{width: 100%; height: 400px; background-color: cadetblue;}
+.imgbox{width: 20%; height: 100%; background-color: tomato; display: flex; justify-content: space-around; align-items: center; float: left; margin: 0px 20px; padding: 0px 20px; }
+.imgbox img{width: 100%; height: 100%;}
 
 #e{width: 1100px; height: 100%;}
 
