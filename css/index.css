@@ -20,14 +20,22 @@ body{width: 100%; height: 100%; background-color: #212121;}
 .fbox1 button:hover{background-color: rgb(252, 29, 0); color: white; font-weight: bolder;}
 
 
-#d{width: 100%; height: 400px; background-color: cadetblue; display: flex; justify-content: space-around; align-items: center;}
-.imgbox{width: 20%; height: 100%; background-color: tomato; position: relative;}
+#d{width: 100%; height: 400px; display: flex; justify-content: space-around; align-items: center;}
+.imgbox{width: 20%; height: 100%; position: relative;}
 .imgbox img{width: 100%; height: 100%;}
-.coverbox1{width: 100%; height: 100%; position: absolute;}
-.coverbox1:hover{background-color: black; opacity: 0.6; position: absolute;}
+.coverbox1{width: 100%; height: 100%; position: absolute; margin-top: -404px;}
+.coverbox1:hover{background-color: black; opacity: 0.6; position: absolute; cursor: pointer;}
 
 #e{width: 1100px; height: 100%;}
 
-#f{width: 100%; height: 700px; background-color: chocolate;}
+#f{width: 100%; height: 700px;}
+#f h3{color: white; text-align: center; font-weight: bolder; font-size: 30px; margin-top: 70px;}
+.imgbox1{width: 70%; height: 22%; margin-top: 45px; display: flex; align-items: center;}
+.imgbox1 img{width: 150px; height: 100%; float: left;}
+.fbox2{float: right; width: 600px; height: 0 auto; color: white;}
+.fbox2 h4{font-weight: bolder; font-size: 23px;}
+.fbox2 p{font-size: 15px;}
+.fbox2 button{float: right; width: 120px; height: 40px; margin-top: -45px; margin-right: 20px; background: none; color: white; border: 1px solid rgb(252, 29, 0); font-weight: bolder; border-radius: 10px; cursor: pointer;}
+.fbox2 button:hover{background-color: rgb(252, 29, 0); color: white; font-weight: bolder;}
 
 #g{width: 100%; height: 800px; background-color: cornflowerblue;}
