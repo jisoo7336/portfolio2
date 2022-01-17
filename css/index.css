@@ -31,7 +31,7 @@ body{width: 100%; height: 100%; background-color: #212121;}
 #f{width: 100%; height: 700px;}
 #f h3{color: white; text-align: center; font-weight: bolder; font-size: 30px; margin-top: 70px;}
 .imgbox1{width: 70%; height: 22%; margin-top: 45px; display: flex; align-items: center;}
-.imgbox1 img{width: 150px; height: 100%; float: left;}
+.imgbox1 img{width: 150px; height: 100%; float: left; margin-right: 40px;}
 .fbox2{float: right; width: 600px; height: 0 auto; color: white;}
 .fbox2 h4{font-weight: bolder; font-size: 23px;}
 .fbox2 p{font-size: 15px;}
