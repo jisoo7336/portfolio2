@@ -28,8 +28,8 @@ body{width: 100%; height: 100%; background-color: #212121;}
 
 #e{width: 1100px; height: 100%;}
 
-#f{width: 100%; height: 700px;}
-#f h3{color: white; text-align: center; font-weight: bolder; font-size: 30px; margin-top: 70px;}
+#f{width: 100%; height: 800px;}
+#f h3{color: white; text-align: center; font-weight: bolder; font-size: 40px; margin-top: 100px;}
 .imgbox1{width: 70%; height: 22%; margin-top: 45px; display: flex; align-items: center;}
 .imgbox1 img{width: 150px; height: 100%; float: left; margin-right: 40px;}
 .fbox2{float: right; width: 600px; height: 0 auto; color: white;}
@@ -38,7 +38,9 @@ body{width: 100%; height: 100%; background-color: #212121;}
 .fbox2 button{float: right; width: 120px; height: 40px; margin-top: -45px; margin-right: 20px; background: none; color: white; border: 1px solid #ed3124; font-weight: bolder; border-radius: 10px; cursor: pointer;}
 .fbox2 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
 
-#g{width: 100%; height: 1000px;}
+#g{width: 100%; height: 1200px;}
+
+#g h1{text-align: center; font-size: 40px; color: white; margin-top: 100px;}
 
 .imgbox2 {width: 320px; height: 350px; float: left; margin-left: 40px; margin-top: 50px; position: relative; }
 
