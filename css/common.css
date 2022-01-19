@@ -13,3 +13,6 @@ header{width: 100%; height: 100%; background-color: #212121; }
 .logo img{width: 100%; height: 100%;}
 
 #z {display:block; width: 100%; height: 80px;}
+#z button{width: 140px; height: 35px; border-radius: 16px; text-align: center; color: white; border: 2px solid #ed3124; background: inherit; margin-top: 22px; margin-right: 80px; cursor: pointer;}
+
+#y{display: none;}
