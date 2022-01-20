@@ -4,19 +4,19 @@
 
   header .small {width:100%; display:flex; justify-content:space-between; align-items:center;}
 
-  #y a {padding:10px; display:block;}
+  #y a {padding:10px; display:block; text-align: center; font-weight: bolder;}
   
-  #y a:hover {background-color:#eee; display:block;}
+  #y a:hover {background-color:#eee; display:block; color: #ed3124;}
   
   #y,#z {display:none;}
   
-  header a {text-decoration:none; color: white;}
+  header a {text-decoration:none; color: white;} 
   
-  header a:hover {background-color:#eee; color: #ed3124;} 
-
   #x{margin-right: 40px;}
   
   .logo{width: 110px; height: 50px; float: left; margin: 15px 40px;}
   .logo img{width: 100%; height: 100%;}
+
+  .small button{display: none;}
 
 }
