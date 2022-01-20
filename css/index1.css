@@ -36,7 +36,7 @@
 .fbox2 button{float: right; width: 120px; height: 40px; margin-top: -35px; margin-right: 20px; background: none; color: white; border: 1px solid #ed3124; font-weight: bolder; cursor: pointer;}
 .fbox2 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
 
-#g{width: 100%; height: 1200px;}
+#g{width: 100%; height: 1200px; margin: 0 auto;}
 
 #g h1{text-align: center; font-size: 40px; color: white; margin-top: 100px;}
 
@@ -44,16 +44,16 @@
 
 .imgbox2 img{width: 100%; height: 100%;}
 
-.coverbox2{width: 100%; height: 100%; margin-top: -335px; position: absolute; opacity: 0;}
-.coverbox2 img{width: 25%; height: 20%; margin-top: 100px; margin-left: 100px; opacity: 1; cursor: pointer;}
+.coverbox2{width: 100%; height: 100%; margin-top: -335px; position: absolute; opacity: 0; text-align: center;}
+.coverbox2 img{width: 25%; height: 20%; margin-top: 100px; opacity: 1; cursor: pointer;}
 .coverbox2:hover{background-color: black; opacity: 0.6;}
 
 
 .imgbox3{width: 40%; height: 200px; float: left; margin-left: 38px; margin-top: 50px; position: relative;}
 .imgbox3 img{width: 100%; height: 100%;}
 
-.coverbox3{width: 100%; height: 100%; margin-top: -204px; position: absolute; opacity: 0;}
-.coverbox3 img{width: 25%; height: 20%; margin-top: 110px; margin-left: 140px; opacity: 1;cursor: pointer;}
+.coverbox3{width: 100%; height: 100%; margin-top: -204px; position: absolute; opacity: 0; text-align: center;}
+.coverbox3 img{width: 25%; height: 20%; margin-top: 110px; opacity: 1;cursor: pointer;}
 .coverbox3:hover{background-color: black; opacity: 0.6;}
 
 
@@ -61,8 +61,8 @@
 .imgbox4{width: 40%; height: 200px; float: left; margin-left: 38px; margin-top: 50px; position: relative;}
 .imgbox4 img{width: 100%; height: 100%;}
 
-.coverbox4{width: 100%; height: 100%; margin-top: -204px; position: absolute; opacity: 0;}
-.coverbox4 img{width: 25%; height: 20%; margin-top: 110px; margin-left: 140px; opacity: 1;cursor: pointer;}
+.coverbox4{width: 100%; height: 100%; margin-top: -204px; position: absolute; opacity: 0; text-align: center;}
+.coverbox4 img{width: 25%; height: 20%; margin-top: 110px; opacity: 1;cursor: pointer;}
 .coverbox4:hover{background-color: black; opacity: 0.6;}
 
 
@@ -71,7 +71,7 @@
 
 .imgbox5 img{width: 100%; height: 100%;}
 
-.coverbox5{width: 100%; height: 100%; margin-top: -335px; position: absolute; opacity: 0;}
-.coverbox5 img{width: 25%; height: 20%; margin-top: 120px; margin-left: 100px; opacity: 1; cursor: pointer;}
+.coverbox5{width: 100%; height: 100%; margin-top: -335px; position: absolute; opacity: 0; text-align: center;}
+.coverbox5 img{width: 25%; height: 20%; margin-top: 120px; opacity: 1; cursor: pointer;}
 .coverbox5:hover{background-color: black; opacity: 0.6;}
 }
