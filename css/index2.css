@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+@media(max-width:599px){ 
+
+  #a{width: 100%; height: auto;}
+
+  #b{width: 100%; height: 100%;}
+  
+  #c{width: 100%; height: 1300px;}
+  
+  #c img{width: 100%; height: 550px; margin-top: 50px;}
+  
+  .fbox1{width: 80%; height: 50%; color: white; margin: 0 auto;}
+  .fbox1 h1{font-size: 20px; margin-top: 100px;}
+  .fbox1 b{font-size: 18px; margin-top: 10px;}
+  .fbox1 p{font-size: 15px; margin-top: 30px; line-height: 25px; }
+  .fbox1 button{background: white; margin-top: 30px; width: 100px; height: 30px; color: #ed3124; border: none; font-weight: bolder; cursor: pointer;}
+  .fbox1 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
+  
+  
+  #d{width: 100%; height: 3000px;}
+  .imgbox{width: 100%; height: 500px; position: relative;}
+  .imgbox img{width: 100%; height: 100%;}
+  .coverbox1{width: 100%; height: 100%; position: absolute; margin-top: -504px; opacity: 0.6; background-color: black;}
+  .coverbox1:hover{background-color: inherit; opacity: 1; position: absolute; cursor: pointer;}
+  
+  #e{width: 100%; height: 100%;}
+  
+  #f{width: 100%; height: 3000px;}
+  #f h3{color: white; text-align: center; font-weight: bolder; font-size: 40px; margin-top: 100px;}
+  .imgbox1{width: 70%; height: 22%; margin-top: 45px; display: flex; align-items: center;}
+  .imgbox1 img{width: 150px; height: 100%; float: left; margin-right: 40px;}
+  .fbox2{float: right; width: 600px; height: 0 auto; color: white;}
+  .fbox2 h4{font-weight: bolder; font-size: 23px;}
+  .fbox2 p{font-size: 15px;}
+  .fbox2 button{float: right; width: 120px; height: 40px; margin-top: -45px; margin-right: 20px; background: none; color: white; border: 1px solid #ed3124; font-weight: bolder; cursor: pointer;}
+  .fbox2 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
+  
+  #g{width: 100%; height: 1200px;}
+  
+  #g h1{text-align: center; font-size: 40px; color: white; margin-top: 100px;}
+  
+  .imgbox2 {width: 320px; height: 350px; float: left; margin-left: 40px; margin-top: 50px; position: relative; }
+  
+  .imgbox2 img{width: 100%; height: 100%;}
+  
+  .coverbox2{width: 100%; height: 100%; margin-top: -354px; position: absolute; opacity: 0;}
+  .coverbox2 img{width: 100px; height: 100px; margin-top: 120px; margin-left: 110px; opacity: 1; cursor: pointer;}
+  .coverbox2:hover{background-color: black; opacity: 0.6;}
+  
+  
+  .imgbox3 {width: 680px; height: 350px; float: left; margin-left: 30px; margin-top: 50px; position: relative;}
+  
+  .imgbox3 img{width: 100%; height: 100%;}
+  
+  .coverbox3{width: 100%; height: 100%; margin-top: -354px; position: absolute; opacity: 0;}
+  .coverbox3 img{width: 100px; height: 100px; margin-top: 120px; margin-left: 280px; opacity: 1; cursor: pointer;}
+  .coverbox3:hover{background-color: black; opacity: 0.6;}
+  
+  
+  
+  .imgbox4{width: 370px; height: 320px; float: left; margin-left: 38px; margin-top: 50px; position: relative;}
+  .imgbox4 img{width: 100%; height: 100%;}
+  
+  .coverbox4{width: 100%; height: 100%; margin-top: -324px; position: absolute; opacity: 0;}
+  .coverbox4 img{width: 100px; height: 100px; margin-top: 110px; margin-left: 140px; opacity: 1;cursor: pointer;}
+  .coverbox4:hover{background-color: black; opacity: 0.6;}
+  
+  
+  
+  .imgbox5{width: 225px; height: 320px; float: left; margin-left: 30px; margin-top: 50px; position: relative;}
+  .imgbox5 img{width: 100%; height: 100%;}
+  
+  .coverbox5{width: 100%; height: 100%; margin-top: -324px; position: absolute; opacity: 0;}
+  .coverbox5 img{width: 100px; height: 100px; margin-top: 110px; margin-left: 65px; opacity: 1; cursor: pointer;}
+  .coverbox5:hover{background-color: black; opacity: 0.6;}
+
+}

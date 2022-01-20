@@ -8,6 +8,9 @@ body{width: 100%; height: 100%; background-color: #212121;}
 
 #b{width: 1100px; height: 100%;}
 
+
+@media(min-width:1100px){
+
 #c{width: 100%; height: 600px;}
 
 #c img{width: 300px; height: 500px; margin: 50px;}
@@ -16,7 +19,7 @@ body{width: 100%; height: 100%; background-color: #212121;}
 .fbox1 h1{font-size: 30px; margin-top: 100px;}
 .fbox1 b{font-size: 15px; margin-top: 10px;}
 .fbox1 p{font-size: 15px; margin-top: 30px; line-height: 25px; }
-.fbox1 button{background: white; margin-top: 30px; width: 100px; height: 30px; color: #ed3124; border: none; font-weight: bolder; border-radius: 15px; cursor: pointer;}
+.fbox1 button{background: white; margin-top: 30px; width: 100px; height: 30px; color: #ed3124; border: none; font-weight: bolder; cursor: pointer;}
 .fbox1 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
 
 
@@ -26,19 +29,19 @@ body{width: 100%; height: 100%; background-color: #212121;}
 .coverbox1{width: 100%; height: 100%; position: absolute; margin-top: -404px; opacity: 0.6; background-color: black;}
 .coverbox1:hover{background-color: inherit; opacity: 1; position: absolute; cursor: pointer;}
 
-#e{width: 1100px; height: 100%;}
+#e{width: 100%; height: 100%;}
 
-#f{width: 100%; height: 800px;}
+#f{width: 1100px; height: 800px;}
 #f h3{color: white; text-align: center; font-weight: bolder; font-size: 40px; margin-top: 100px;}
 .imgbox1{width: 70%; height: 22%; margin-top: 45px; display: flex; align-items: center;}
 .imgbox1 img{width: 150px; height: 100%; float: left; margin-right: 40px;}
 .fbox2{float: right; width: 600px; height: 0 auto; color: white;}
 .fbox2 h4{font-weight: bolder; font-size: 23px;}
 .fbox2 p{font-size: 15px;}
-.fbox2 button{float: right; width: 120px; height: 40px; margin-top: -45px; margin-right: 20px; background: none; color: white; border: 1px solid #ed3124; font-weight: bolder; border-radius: 10px; cursor: pointer;}
+.fbox2 button{float: right; width: 120px; height: 40px; margin-top: -45px; margin-right: 20px; background: none; color: white; border: 1px solid #ed3124; font-weight: bolder; cursor: pointer;}
 .fbox2 button:hover{background-color: #ed3124; color: white; font-weight: bolder;}
 
-#g{width: 100%; height: 1200px;}
+#g{width: 1100px; height: 1200px;}
 
 #g h1{text-align: center; font-size: 40px; color: white; margin-top: 100px;}
 
@@ -77,3 +80,4 @@ body{width: 100%; height: 100%; background-color: #212121;}
 .coverbox5 img{width: 100px; height: 100px; margin-top: 110px; margin-left: 65px; opacity: 1; cursor: pointer;}
 .coverbox5:hover{background-color: black; opacity: 0.6;}
 
+}
