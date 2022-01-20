@@ -45,7 +45,7 @@
   .imgbox2 img{width: 100%; height: 100%;}
   
   .coverbox2{width: 100%; height: 100%; margin-top: -505px; position: absolute; opacity: 0; text-align: center;}
-  .coverbox2 img{width: 100px; height: 100px; margin-top: 120px; opacity: 1; cursor: pointer;}
+  .coverbox2 img{width: 100px; height: 100px; margin-top: 200px; opacity: 1; cursor: pointer;}
   .coverbox2:hover{background-color: black; opacity: 0.6;}
   
   
@@ -72,7 +72,7 @@
   .imgbox5 img{width: 100%; height: 100%;}
   
   .coverbox5{width: 100%; height: 100%; margin-top: -504px; position: absolute; opacity: 0; text-align: center;}
-  .coverbox5 img{width: 100px; height: 100px; margin-top: 110px; opacity: 1; cursor: pointer;}
+  .coverbox5 img{width: 100px; height: 100px; margin-top: 200px; opacity: 1; cursor: pointer;}
   .coverbox5:hover{background-color: black; opacity: 0.6;}
 
 }
