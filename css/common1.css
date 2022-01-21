@@ -6,7 +6,7 @@
 
   #y a {padding:10px; display:block; text-align: center; font-weight: bolder;}
   
-  #y a:hover {background-color:#eee; display:block; color: #ed3124;}
+  #y a:hover {background-color:white; display:block; color: #ed3124;}
   
   #y,#z {display:none;}
   
